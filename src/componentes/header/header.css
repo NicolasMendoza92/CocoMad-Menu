@@ -1,0 +1,13 @@
+/* ESTILOS PARA LA LANDING PPALES  */
+
+.header-style- {
+   background-size: cover !important;
+   overflow: hidden;
+   width: 100%;
+   transition: 0.5s;
+   background: url(https://res.cloudinary.com/dcx1rcwvu/image/upload/v1638211714/cocoMAD/navbar6transp_nabtif.png) no-repeat top center;
+}
+
+
+
+

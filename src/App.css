@@ -1,0 +1,144 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.footer-fix {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.responsive-login-btn {
+  background-color: rgb(146, 210, 226);
+  color: white;
+  border: 1px solid whitesmoke;
+  font-size: 20px;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 5px;
+  transition: all 0.5s;
+}
+
+.responsive-login-btn:hover {
+  background-color: whitesmoke;
+  color: rosybrown;
+  border: 1px solid rgb(146, 210, 226);
+}
+
+.responsive-login-face {
+  background-color: #3b5998;
+  color: white;
+  border: 1px solid #3b5998;
+  font-size: 20px;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 5px;
+  transition: all 0.5s;
+}
+
+.responsive-login-face:hover {
+  background-color: white;
+  color: #3b5998;
+}
+.responsive-login-whatsapp{
+  color:#25d366;
+  font-size: 2.5rem;
+}
+
+.tarjetas {
+  background-color: rosybrown;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+.tarjetas h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+
+
+/* ESTILOS GENERALES */
+.boton-artesanal {
+  background: none;
+  padding: 10px;
+  color: whitesmoke;
+  border-color: whitesmoke;
+  border-radius: 0.25rem;
+  font-size: 25px;
+  font-family: 'Julius Sans One', sans-serif;
+  transition: 0.4s;
+}
+
+.boton-artesanal:hover {
+  background: rgb(146, 210, 226);
+  text-shadow: 4px 3px 2px rgba(58, 57, 57, 0.575), 4px 4px 5px rgba(112, 112, 112, 0.493);
+  transition-duration: 0.5s;
+  padding: 10px;
+  color: rosybrown;
+  border-color: rgb(146, 210, 226);
+  border-radius: 0.25rem;
+  font-size: 25px;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+.boton-artesanal-cel {
+  background: rgb(146, 210, 226);
+  padding: 5px;
+  color: whitesmoke;
+  border-color: rgb(146, 210, 226);
+  border-radius: 0.25rem;
+  font-size: 15px;
+  font-family: 'Julius Sans One', sans-serif;
+  transition: 0.4s;
+}
+
+.boton-artesanal-cel:hover {
+  background: whitesmoke;
+  transition-duration: 0.5s;
+  padding: 5px;
+  color: rosybrown;
+  border-color: whitesmoke;
+  border-radius: 0.25rem;
+  font-size: 15px;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+/* spinner */
+.spinner-style {
+  position: fixed;
+  top: 50%;
+  right: 48%;
+  z-index: 2;
+  color: #1d4683 !important;
+}
+
+.spinner-style .spinner-border {
+  width: 4rem;
+  height: 4rem;
+}
+
+.boton-down {
+  border: none;
+  background: none;
+}
+
+.circleArrow {
+  border: none;
+  color: whitesmoke;
+  font-size: 3rem;
+  padding: 0;
+  transition: 0.4s;
+  cursor: pointer;
+  border-radius: 2rem;
+}
+
+.circleArrow:hover {
+  color: rgb(146, 210, 226);
+  box-shadow: 4px 3px 2px rgba(58, 57, 57, 0.575), 4px 4px 5px rgba(112, 112, 112, 0.493);
+}
+.btn-config{
+  background:grey;
+
+}
+.btn-config:hover{
+  background:whitesmoke;
+
+}
