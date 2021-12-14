@@ -13,7 +13,7 @@ export default function Home() {
                 <Nav.Link as={NavLink} to="/menuespañol">
                     <button className="boton-artesanal-cel px-4" >MENU ESPAÑOL</button>
                 </Nav.Link>
-                <Nav.Link as={NavLink} to="/menuespañol">
+                <Nav.Link as={NavLink} to="/menuingles">
                     <button className="boton-artesanal-cel px-4" >MENU INGLES</button>
                 </Nav.Link>
             </div>

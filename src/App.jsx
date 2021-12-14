@@ -9,6 +9,7 @@ import MenuEs from './pages/MenuEs'
 // Componentes 
 import { Footer } from './componentes/footer/Footer';
 import { SubHeader } from './componentes/header/SubHeader';
+import MenuEn from './pages/MenuEn';
 
 
 function App() {
@@ -23,6 +24,10 @@ function App() {
 
         <Route path="/menuespañol">
           <MenuEs />
+        </Route>
+
+        <Route path="/menuingles">
+          <MenuEn />
         </Route>
 
         <Route path="/404">
