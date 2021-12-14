@@ -2,8 +2,8 @@
     font-size: 25px;
 }
 .back-arrow {
-    font-size: 2rem;
-    color: rosybrown;
+    font-size: 1.5rem;
+    color: whitesmoke;
     text-decoration: none;
     transition: 0.4s;
     background-color: transparent;
@@ -12,7 +12,7 @@
  }
  
  .back-arrow:link, .back-arrow:active {
-    color: whitesmoke;
+    color: rosybrown;
  }
  
  .back-arrow:hover {
@@ -24,7 +24,7 @@
 .contenedor-small {
     position: relative;
     display: flex;
-    justify-content: start;
+    justify-content: center;
     align-items: center;
     width: 100%;
 }
@@ -32,8 +32,8 @@
     .logo-container-small {
         position: relative;
         display: flex;
-        align-items: start;
-        justify-content: start;
+        align-items: center;
+        justify-content: center;
         width: 100%;
     }
     .logo-container-small a {

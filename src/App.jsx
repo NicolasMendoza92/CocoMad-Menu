@@ -5,18 +5,13 @@ import { Switch, Route, Redirect } from 'react-router-dom';
 // Pages Landing
 import Home from './pages/Home'
 import MenuEs from './pages/MenuEs'
-
-// Componentes 
-import { Footer } from './componentes/footer/Footer';
-import { SubHeader } from './componentes/header/SubHeader';
 import MenuEn from './pages/MenuEn';
 
 
 function App() {
 
   return (
-    <div className="footer-fix">
-      <SubHeader/>
+   
       <Switch>
         <Route path="/" exact>
           <Home />
@@ -39,8 +34,7 @@ function App() {
         </Route>
 
       </Switch>
-      <Footer />
-    </div>
+     
 
   );
 }

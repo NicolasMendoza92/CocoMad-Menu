@@ -2,8 +2,6 @@
 import { Container} from 'react-bootstrap';
 import { Link, NavLink } from 'react-router-dom';
 import './navbar.css';
-import { RiArrowGoBackFill } from 'react-icons/ri';
-
 
 export const NavbarSmall = () => {
 
@@ -18,9 +16,6 @@ export const NavbarSmall = () => {
                                         <img id="main-img-small" src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1638210957/cocoMAD/cocomad_logo_rose_1_jkbvbz.png" alt="img logo" className="nav-logo-desktop" />
                                     </Link>
                                 </div>
-                                <Link as={NavLink} to="/">
-                                <button className="back-arrow mt-2 mx-2"> <RiArrowGoBackFill /> </button>
-                                </Link>
                             </div>
                         </Container>
                     </nav>

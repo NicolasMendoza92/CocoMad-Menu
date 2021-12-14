@@ -1,8 +1,11 @@
 .footer {
    background-color:rosybrown;
-   padding: 2rem 0rem 0rem 0rem;
+   padding: 1rem 0rem 0rem 0rem;
    font-family: 'Julius Sans One', sans-serif;
    color: whitesmoke;
+}
+.footer-menu{
+   background-color: none;
 }
 
 .footer p {
@@ -64,30 +67,6 @@
 
 .links a:hover {
    color: rgb(146, 210, 226);
-}
-
-
-.volverArriba {
-   font-size: 2rem;
-   color: whitesmoke;
-   text-decoration: none;
-   transition: 0.4s;
-   background-color: transparent;
-   border: none;
-   padding: 0;
-}
-
-.volverArriba:link, .volverArriba:visited, .volverArriba:active {
-   color: whitesmoke;
-}
-
-.volverArriba:hover {
-   color: rgb(146, 210, 226);
-}
-
-.footer-admin {
-   background-color: gray;
-   color: blanchedalmond;
 }
 
 .botom-footer{
