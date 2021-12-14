@@ -5,6 +5,7 @@
 }
 .titulo-card-home{
   font-size: 25px;
+  font-size: bold;
 }
 
 .glass-card {
@@ -15,6 +16,7 @@
 }
 
 .oracion-card{
+  font-size: 15px;
   font-family: 'Montserrat', sans-serif;
 }
 

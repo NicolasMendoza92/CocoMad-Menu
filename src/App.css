@@ -9,79 +9,25 @@ body {
   min-height: 100vh;
 }
 
-.responsive-login-btn {
-  background-color: rgb(146, 210, 226);
-  color: white;
-  border: 1px solid whitesmoke;
-  font-size: 20px;
-  padding: 0.5rem 1rem;
-  margin: 0.5rem 5px;
-  transition: all 0.5s;
-}
-
-.responsive-login-btn:hover {
-  background-color: whitesmoke;
-  color: rosybrown;
-  border: 1px solid rgb(146, 210, 226);
-}
-
-.responsive-login-face {
-  background-color: #3b5998;
-  color: white;
-  border: 1px solid #3b5998;
-  font-size: 20px;
-  padding: 0.5rem 1rem;
-  margin: 0.5rem 5px;
-  transition: all 0.5s;
-}
-
-.responsive-login-face:hover {
-  background-color: white;
-  color: #3b5998;
-}
-.responsive-login-whatsapp{
-  color:#25d366;
-  font-size: 2.5rem;
-}
-
-.tarjetas {
-  background-color: rosybrown;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: bolder;
-}
-.tarjetas h3 {
-  font-family: 'Montserrat', sans-serif;
+.tarjetas p {
+  font-family: 'Julius Sans One', sans-serif;
   font-weight: bolder;
 }
 
-
-/* ESTILOS GENERALES */
-.boton-artesanal {
-  background: none;
-  padding: 10px;
-  color: whitesmoke;
-  border-color: whitesmoke;
-  border-radius: 0.25rem;
-  font-size: 25px;
-  font-family: 'Julius Sans One', sans-serif;
-  transition: 0.4s;
+.tarjetas .accordion-header button {
+  margin: 0;
+  text-align: center;
+  background-color: rgb(231, 170, 107) !important;
+  color: white !important;
+  font-family: 'Julius Sans One', sans-serif !important;
+  border: 1px solid rosybrown;
+  font-size: 20px;
+  padding: 0.5rem 1rem;
 }
-
-.boton-artesanal:hover {
-  background: rgb(146, 210, 226);
-  text-shadow: 4px 3px 2px rgba(58, 57, 57, 0.575), 4px 4px 5px rgba(112, 112, 112, 0.493);
-  transition-duration: 0.5s;
-  padding: 10px;
-  color: rosybrown;
-  border-color: rgb(146, 210, 226);
-  border-radius: 0.25rem;
-  font-size: 25px;
-  font-family: 'Julius Sans One', sans-serif;
-}
-
 .boton-artesanal-cel {
   background: rgb(146, 210, 226);
   padding: 5px;
+  height: 5rem;
   color: whitesmoke;
   border-color: rgb(146, 210, 226);
   border-radius: 0.25rem;
@@ -141,4 +87,42 @@ body {
 .btn-config:hover{
   background:whitesmoke;
 
+}
+
+
+.header-menu {
+  width: 100%;
+  height: auto;
+  background: url(https://res.cloudinary.com/dcx1rcwvu/image/upload/v1639425564/cocoMAD/MenuheaderEs_a8t1sl.png) top center;
+}
+.acordion-menu img{
+  max-width: 95%;
+}
+.menu-button1 .accordion-header button {
+  margin: 0;
+  text-align: center;
+  background-color: rgb(231, 170, 107) !important;
+  color: white !important;
+  font-family: 'Julius Sans One', sans-serif !important;
+  font-size: 20px;
+  padding: 0.5rem 1rem;
+}
+/* .menu-button2 .accordion-header button {
+  margin: 0;
+  text-align: center;
+  background-color: rgb(193, 227, 234) !important;
+  color: rgb(231, 170, 107) !important;
+  font-family: 'Julius Sans One', sans-serif !important;
+  font-size: 20px;
+  padding: 0.5rem 1rem;
+} */
+
+.menu-button2 .accordion-header button {
+  margin: 0;
+  text-align: center;
+  background-color: whitesmoke !important;
+  color: rgb(231, 170, 107) !important;
+  font-family: 'Julius Sans One', sans-serif !important;
+  font-size: 20px;
+  padding: 0.5rem 1rem;
 }

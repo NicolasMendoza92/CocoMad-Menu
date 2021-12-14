@@ -11,8 +11,8 @@ export const Footer = () => {
     return (
         <>
                 <div className="mt-auto footer">
-                    <div className="row text-center justify-content-start links mx-3">
-                        <div className="d-flex flex-column align-items-start col-12 col-md-3 my-2 p-2">
+                    <div className="row text-center justify-content-center links mx-3">
+                        <div className="d-flex flex-column align-items-center col-12 col-md-3 my-2 p-2">
                             <p>Seguinos en Nuestras Redes</p>
                             <hr />
                             <div className="my-2">
