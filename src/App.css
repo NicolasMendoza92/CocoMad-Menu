@@ -88,6 +88,10 @@ body {
 
 }
 
+.titulo-conoce{
+  font-family: 'Julius Sans One', sans-serif !important;
+  font-weight: bold;
+}
 
 .header-menu {
   width: 100%;

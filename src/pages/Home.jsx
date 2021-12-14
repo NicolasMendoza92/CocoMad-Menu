@@ -17,6 +17,9 @@ export default function Home() {
                     <button className="boton-artesanal-cel px-4" >MENU INGLES</button>
                 </Nav.Link>
             </div>
+            <div  className='m-2 d-flex align-items-center justify-content-center text-center titulo-conoce'>
+                Conoce nuestras opciones para disfrutar en casa!
+            </div>
             <Accordion className='m-3'>
                 <Accordion.Item className="tarjetas text-center" eventKey="0">
                     <Accordion.Header className='buton-llevar' >
