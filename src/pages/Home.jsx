@@ -13,11 +13,11 @@ export default function Home() {
             <SubHeader />
             <div className='d-flex flex-column align-items-center justify-content-center '>
                 <Nav.Link as={NavLink} to="/menuingles">
-                    <button className="boton-artesanal-cel px-4" >VER MENU</button>
+                    <button className="boton-artesanal-cel px-4" >VER PDF</button>
                 </Nav.Link>
-                {/* <Nav.Link as={NavLink} to="/404">
-                    <button className="boton-artesanal-cel px-4" >MENU INGLES</button>
-                </Nav.Link> */}
+                <Nav.Link as={NavLink} to="/menuespañol">
+                    <button className="boton-artesanal-cel px-4" >MENU DETALLADO</button>
+                </Nav.Link>
             </div>
             <div className='m-2 d-flex align-items-center justify-content-center text-center titulo-conoce'>
                 Despliega para conocer mas opciones y disfrutar en casa!
