@@ -12,7 +12,7 @@ export default function Home() {
         <div className="footer-fix">
             <SubHeader />
             <div className='d-flex flex-column align-items-center justify-content-center '>
-                <Nav.Link as={NavLink} to="/menueingles">
+                <Nav.Link as={NavLink} to="/menuingles">
                     <button className="boton-artesanal-cel px-4" >VER MENU</button>
                 </Nav.Link>
                 {/* <Nav.Link as={NavLink} to="/404">
