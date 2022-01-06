@@ -26,7 +26,7 @@ function App() {
         </Route>
 
         <Route path="/404">
-          404
+          Page not Found 404
         </Route>
 
         <Route path="*">
