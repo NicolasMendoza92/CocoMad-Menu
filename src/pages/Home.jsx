@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 import { Footer } from '../componentes/footer/Footer';
 import { SubHeader } from '../componentes/header/SubHeader';
 import { ParaLlevar } from '../componentes/home/ParaLlevar';
-import { TartasYmas } from '../componentes/home/TartasYmas';
+// import { TartasYmas } from '../componentes/home/TartasYmas';
 
 export default function Home() {
 
@@ -20,19 +20,19 @@ export default function Home() {
                 </Nav.Link>
             </div>
             <div className='m-2 d-flex align-items-center justify-content-center text-center titulo-conoce'>
-                Despliega para conocer mas opciones y disfrutar en casa!
+                Despliega para conocer más opciones y disfrutar en casa!
             </div>
             <Accordion className='m-3'>
                 <Accordion.Item className="tarjetas text-center" eventKey="0">
                     <Accordion.Header className='buton-llevar' >
-                        ALFAJORES PARA LLEVAR!
+                        Alfajores para llevar
                     </Accordion.Header>
                     <Accordion.Body>
                         <ParaLlevar />
                     </Accordion.Body>
                 </Accordion.Item>
             </Accordion>
-            <Accordion className='m-3'>
+            {/* <Accordion className='m-3'>
                 <Accordion.Item className="tarjetas text-center" eventKey="0">
                     <Accordion.Header className='buton-llevar' >
                         TARTAS Y EMPANADAS PARA LLEVAR!
@@ -41,7 +41,7 @@ export default function Home() {
                         <TartasYmas />
                     </Accordion.Body>
                 </Accordion.Item>
-            </Accordion>
+            </Accordion> */}
             <Footer />
         </div>
     )

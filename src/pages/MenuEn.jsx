@@ -19,11 +19,12 @@ export default function MenuEn() {
                 <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1639425564/cocoMAD/MenuheaderEs_a8t1sl.png" alt="" className="header-menu" />
             </div>
             <div>
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1639508972/cocoMAD/parte1_bnlqyu.png" alt="" className="header-menu" />
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1639508972/cocoMAD/parte2_jjgawa.png" alt="" className="header-menu" />
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1639508972/cocoMAD/parte3_gyssui.png" alt="" className="header-menu" />
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1639508972/cocoMAD/parte4_tptxbz.png" alt="" className="header-menu" />
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1639508972/cocoMAD/parte5_szgflz.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779208/cocoMAD/Menu/parte1_udxrwr.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779208/cocoMAD/Menu/parte2_ydpcy7.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779208/cocoMAD/Menu/parte3_xtvvg2.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779475/cocoMAD/Menu/footer_middle_ltwsm9.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779208/cocoMAD/Menu/parte4_fxrclx.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779208/cocoMAD/Menu/parte5_dvupgh.png" alt="" className="header-menu" />
             </div>
             <div div className="mt-auto footer-menu">
                 <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1639500436/cocoMAD/menufooter_jqnzxo.png" alt="" className="header-menu" />

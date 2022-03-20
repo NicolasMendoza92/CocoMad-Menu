@@ -24,7 +24,7 @@ body {
 }
 
 .tarjetas p {
-  font-family: 'Julius Sans One', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: bolder;
 }
 
@@ -33,7 +33,7 @@ body {
   text-align: center;
   background-color: rgb(231, 170, 107) !important;
   color: white !important;
-  font-family: 'Julius Sans One', sans-serif !important;
+  font-family: 'Montserrat', sans-serif !important;
   font-size: 20px;
   padding: 0.5rem 1rem;
 }
@@ -58,6 +58,10 @@ body {
   border-radius: 0.25rem;
   font-size: 15px;
   font-family: 'Julius Sans One', sans-serif;
+}
+
+.imagen-cardo{
+  width: 100%;
 }
 
 /* spinner */
@@ -93,7 +97,7 @@ body {
 }
 
 .titulo-conoce{
-  font-family: 'Julius Sans One', sans-serif !important;
+  font-family: 'Montserrat', sans-serif !important;
   font-weight: bold;
 }
 
@@ -110,7 +114,7 @@ body {
   text-align: center;
   background-color: rgb(231, 170, 107) !important;
   color: white !important;
-  font-family: 'Julius Sans One', sans-serif !important;
+  font-family: 'Montserrat', sans-serif !important;
   font-size: 20px;
   padding: 0.5rem 1rem;
 }
@@ -129,7 +133,7 @@ body {
   text-align: center;
   background-color: whitesmoke !important;
   color: rgb(231, 170, 107) !important;
-  font-family: 'Julius Sans One', sans-serif !important;
+  font-family: 'Montserrat', sans-serif !important;
   font-size: 20px;
   padding: 0.5rem 1rem;
 }

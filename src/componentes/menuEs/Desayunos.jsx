@@ -7,7 +7,7 @@ export const Desayunos = () => {
             <Accordion.Item className='menu-button1' eventKey="0">
                 <Accordion.Header>DESAYUNOS</Accordion.Header>
                 <Accordion.Body className='d-flex align-items-center justify-content-center m-2'>
-                   <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1639425564/cocoMAD/desayunos_Es_dnzzhg.png" alt=""/>
+                   <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647780007/cocoMAD/Menu/desayunos_Es_nxah9d.png" alt=""/>
                 </Accordion.Body>
             </Accordion.Item>
         </Accordion>
