@@ -20,7 +20,7 @@ export default function MenuEn() {
             </div>
             <div>
                 <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779208/cocoMAD/Menu/parte1_udxrwr.png" alt="" className="header-menu" />
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647860329/cocoMAD/Menu/parte2_u6bwae.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647860851/cocoMAD/Menu/parte2_ng3u5p.png" alt="" className="header-menu" />
                 <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779208/cocoMAD/Menu/parte3_xtvvg2.png" alt="" className="header-menu" />
                 <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779475/cocoMAD/Menu/footer_middle_ltwsm9.png" alt="" className="header-menu" />
                 <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779208/cocoMAD/Menu/parte4_fxrclx.png" alt="" className="header-menu" />
