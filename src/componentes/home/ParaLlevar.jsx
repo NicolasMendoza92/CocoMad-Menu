@@ -19,7 +19,7 @@ export const ParaLlevar = () => {
                     <div className="glass-card">
                         <Card.Title className="titulo-card-home">CLASICOS</Card.Title>
                         <Card.Text className="oracion-card">
-                            Unidad... 1.30€ <br /> Caja x 6... 7.50€ <br /> Caja x 12... 13.50€
+                            Unidad... 1.30€ <br /> Caja x 6... 7.20€ <br /> Caja x 12... 13.50€
                         </Card.Text>
                     </div>
                 </Card.ImgOverlay>
