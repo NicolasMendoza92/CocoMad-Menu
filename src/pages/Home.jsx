@@ -8,12 +8,17 @@ import { ParaLlevar } from '../componentes/home/ParaLlevar';
 
 export default function Home() {
 
+const openForm  = () => {
+    const newWindow = window.open('https://docs.google.com/forms/d/1QH1Ygr4nB7m_sfw8ERRjUQaCT728md3s_CDC1HFbb9w/viewform?ts=62505779&edit_requested=true');
+    if (newWindow) newWindow.opener = null
+}
+
     return (
         <div className="footer-fix">
             <SubHeader />
-            <div className='d-flex justify-content-center m-3 link-enc'>
-                <button className='boton-artesanal-cel-enc'>
-                    <a href="https://docs.google.com/forms/d/1QH1Ygr4nB7m_sfw8ERRjUQaCT728md3s_CDC1HFbb9w/viewform?ts=62505779&edit_requested=true" target="blank">¡Ayudanos con la ENCUESTA!</a>
+            <div className='d-flex justify-content-center m-3'>
+                <button onClick={openForm} className='boton-artesanal-cel-enc'>
+                    ¡Ayudanos con la ENCUESTA!
                 </button>
             </div>
             <div className='d-flex flex-column align-items-center justify-content-center '>

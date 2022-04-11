@@ -73,7 +73,7 @@ body {
 }
 
 .boton-artesanal-cel-enc:hover {
-  background: rgb(146, 210, 226);
+  background: whitesmoke;
   transition-duration: 0.5s;
   padding: 5px;
   color: rgb(231, 170, 107);
@@ -83,10 +83,6 @@ body {
   font-family: 'Julius Sans One', sans-serif;
 }
 
-.link-enc a {
-  color: whitesmoke;
-  text-decoration: none;
-}
 
 .imagen-cardo{
   width: 100%;
