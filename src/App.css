@@ -60,10 +60,41 @@ body {
   font-family: 'Julius Sans One', sans-serif;
 }
 
+.boton-artesanal-cel-enc {
+  background: rgb(231, 170, 107);
+  padding: 5px;
+  height: 5rem;
+  color: whitesmoke;
+  border-color: rgb(231, 170, 107);
+  border-radius: 0.25rem;
+  font-size: 15px;
+  font-family: 'Julius Sans One', sans-serif;
+  transition: 0.4s;
+}
+
+.boton-artesanal-cel-enc:hover {
+  background: rgb(146, 210, 226);
+  transition-duration: 0.5s;
+  padding: 5px;
+  color: rgb(231, 170, 107);
+  border-color: whitesmoke;
+  border-radius: 0.25rem;
+  font-size: 15px;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+.link-enc a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
 .imagen-cardo{
   width: 100%;
 }
-
+.encuesta-boton{
+  text-decoration: none;
+  color: whitesmoke;
+}
 /* spinner */
 .spinner-style {
   position: fixed;
