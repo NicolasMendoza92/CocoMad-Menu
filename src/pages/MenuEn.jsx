@@ -16,18 +16,18 @@ export default function MenuEn() {
                 </Link>
             </div>
             <div>
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1639425564/cocoMAD/MenuheaderEs_a8t1sl.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1652519667/cocoMAD/Menu/parte_1_verano_s8h9hr.png" alt="" className="header-menu" />
             </div>
             <div>
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779208/cocoMAD/Menu/parte1_udxrwr.png" alt="" className="header-menu" />
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647860851/cocoMAD/Menu/parte2_ng3u5p.png" alt="" className="header-menu" />
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779208/cocoMAD/Menu/parte3_xtvvg2.png" alt="" className="header-menu" />
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779475/cocoMAD/Menu/footer_middle_ltwsm9.png" alt="" className="header-menu" />
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779208/cocoMAD/Menu/parte4_fxrclx.png" alt="" className="header-menu" />
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1647779208/cocoMAD/Menu/parte5_dvupgh.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1652519667/cocoMAD/Menu/parte_2_verano_i557ux.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1652519668/cocoMAD/Menu/parte_3_verano_wjq97g.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1652519668/cocoMAD/Menu/header_menu_verano_rmpxij.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1652519970/cocoMAD/Menu/header_middle_verano_iuzrkw.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1652519668/cocoMAD/Menu/parte_4_verano_g0ooyj.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1652519667/cocoMAD/Menu/parte_5_verano_itflez.png" alt="" className="header-menu" />
             </div>
             <div div className="mt-auto footer-menu">
-                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1639500436/cocoMAD/menufooter_jqnzxo.png" alt="" className="header-menu" />
+                <img src="https://res.cloudinary.com/dcx1rcwvu/image/upload/v1652519667/cocoMAD/Menu/parte_6_verano_lgjpsm.png" alt="" className="header-menu" />
             </div>
             <div className="d-flex align-items-center justify-content-between botom-footer">
                 <button onClick={scrollToTop} className="volverArriba mx-1"> <FaArrowUp /> </button>

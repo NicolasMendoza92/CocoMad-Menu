@@ -23,11 +23,11 @@ const openForm  = () => {
             </div>
             <div className='d-flex flex-column align-items-center justify-content-center '>
                 <Nav.Link as={NavLink} to="/menuingles">
-                    <button className="boton-artesanal-cel px-4" >VER PDF</button>
+                    <button className="boton-artesanal-cel px-4" >VER MENÚ</button>
                 </Nav.Link>
-                <Nav.Link as={NavLink} to="/menuespañol">
+                {/* <Nav.Link as={NavLink} to="/menuespañol">
                     <button className="boton-artesanal-cel px-4" >MENU DETALLADO</button>
-                </Nav.Link>
+                </Nav.Link> */}
             </div>
             <div className='m-2 d-flex align-items-center justify-content-center text-center titulo-conoce'>
                 Despliega para conocer más opciones y disfrutar en casa!
