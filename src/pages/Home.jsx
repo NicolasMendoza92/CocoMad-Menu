@@ -42,16 +42,6 @@ const openForm  = () => {
                     </Accordion.Body>
                 </Accordion.Item>
             </Accordion>
-            {/* <Accordion className='m-3'>
-                <Accordion.Item className="tarjetas text-center" eventKey="0">
-                    <Accordion.Header className='buton-llevar' >
-                        TARTAS Y EMPANADAS PARA LLEVAR!
-                    </Accordion.Header>
-                    <Accordion.Body>
-                        <TartasYmas />
-                    </Accordion.Body>
-                </Accordion.Item>
-            </Accordion> */}
             <Footer />
         </div>
     )

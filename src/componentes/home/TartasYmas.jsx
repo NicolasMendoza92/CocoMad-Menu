@@ -26,7 +26,7 @@ export const TartasYmas = () => {
                 </Card.ImgOverlay>
             </Card>
             <div>
-                Nota: Las Tartas para llevar son sujetas a Stock
+                Nota: Las Tartas para llevar son sujetas a Stock, realiza tu pedido con anticipación.
             </div>
             <Card className="bg-none text-white mb-2 card-home">
                 <Card.Img src={cardsHome.image5} alt="Card image" />
